@@ -1,0 +1,45 @@
+1523100648714	geckodriver	INFO	geckodriver 0.19.1
+1523100648714	geckodriver	INFO	Listening on 127.0.0.1:61220
+1523100651792	mozrunner::runner	INFO	Running command: "I:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PqapmKh5FjzW"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1523100653180	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1523100654520	Marionette	INFO	Listening on port 61228
+1523100654998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9380, Chrome_ChildThread] WUnable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11192, Chrome_ChildThread] WARNING: pipe [Child 4672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[Child 10092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10092, Chrome_ChildTh*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 400
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523100672151	geckodriver	INFO	geckodriver 0.19.1
+1523100672151	geckodriver	INFO	Listening on 127.0.0.1:61255
+1523100675214	mozrunner::runner	INFO	Running command: "I:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.rGcOQbWOiLd7"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1523100675870	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1523100677102	Marionette	INFO	Listening on port 61263
+1523100677284	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7796, Chrome_ChildThread] WARNIUnable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: file:///E:/%E5%B7%A5%E4%BD%9C/%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0/%E7%88%AC%E8%99%AB/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BD%BB%E6%9D%BE%E8%87%AA%E5%8A%A8%E5%8C%96---selenium-webdriver(python)%20(%E4%B8%83)/frame.html, line 10: ReferenceError: $ is not defined
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_d22d34b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1461_21124_18559_20927&req=2&csor=1&cb=jQuery110207535992057956153_1523100679432&_=1523100679434, line 1: TypeError: jQuery110207535992057956153_1523100679432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1461_21124_18559_20927&req=2&csor=4&pwd=sel&cb=jQuery110207535992057956153_1523100679432&_=1523100679437, line 1: TypeError: jQuery110207535992057956153_1523100679432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1461_21124_18559_20927&req=2&csor=2&pwd=s&cb=jQuery110207535992057956153_1523100679432&_=1523100679435, line 1: TypeError: jQuery110207535992057956153_1523100679432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1461_21124_18559_20927&req=2&csor=3&pwd=se&cb=jQuery110207535992057956153_1523100679432&_=1523100679436, line 1: TypeError: jQuery110207535992057956153_1523100679432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1461_21124_18559_20927&req=2&csor=5&pwd=sele&cb=jQuery110207535992057956153_1523100679432&_=1523100679438, line 1: TypeError: jQuery110207535992057956153_1523100679432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1461_21124_18559_20927&req=2&csor=6&pwd=selen&cb=jQuery110207535992057956153_1523100679432&_=1523100679439, line 1: TypeError: jQuery110207535992057956153_1523100679432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1461_21124_18559_20927&req=2&csor=7&pwd=seleni&cb=jQuery110207535992057956153_1523100679432&_=1523100679440, line 1: TypeError: jQuery110207535992057956153_1523100679432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1461_21124_18559_20927&req=2&csor=8&pwd=seleniu&cb=jQuery110207535992057956153_1523100679432&_=1523100679441, line 1: TypeError: jQuery110207535992057956153_1523100679432 is not a function
